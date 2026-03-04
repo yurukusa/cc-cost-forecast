@@ -74,7 +74,7 @@ If you're on a Max plan subscription, your actual monetary cost is the subscript
 
 ## Part of cc-toolkit
 
-cc-cost-forecast is one of 51 free tools for Claude Code users.
+cc-cost-forecast is one of 60 free tools for Claude Code users.
 
 **→ [See all tools at yurukusa.github.io/cc-toolkit](https://yurukusa.github.io/cc-toolkit/)**
 
