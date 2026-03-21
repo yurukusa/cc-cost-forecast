@@ -9,11 +9,20 @@
   "scripts": {
     "start": "node cli.mjs"
   },
-  "keywords": ["claude", "claude-code", "ai", "cost", "forecast", "budget", "monitoring"],
+  "keywords": [
+    "claude",
+    "claude-code",
+    "ai",
+    "cost",
+    "forecast",
+    "budget",
+    "monitoring"
+  ],
   "author": "yurukusa",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/yurukusa/cc-cost-forecast"
-  }
+  },
+  "homepage": "https://github.com/yurukusa/cc-cost-forecast#readme"
 }
